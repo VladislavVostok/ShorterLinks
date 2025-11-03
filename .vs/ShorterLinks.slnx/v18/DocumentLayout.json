@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\repositories\\models\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\repositories\\models\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Repositories\\Models\\User.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\User.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Repositories\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:26:36.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShortLink.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:26:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:21:15.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Program.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:37:13.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\appsettings.json",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.json",
+              "RelativeToolTip": "ShorterLinks.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T17:37:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedirectController.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\RedirectController.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Controllers\\RedirectController.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\RedirectController.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Controllers\\RedirectController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:20:59.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILinkService.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\ILinkService.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Services\\ILinkService.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\ILinkService.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Services\\ILinkService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:13:15.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinksController.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\LinksController.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Controllers\\LinksController.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\LinksController.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Controllers\\LinksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:01:19.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LinkService.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\LinkService.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Services\\LinkService.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\LinkService.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Services\\LinkService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:01:12.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

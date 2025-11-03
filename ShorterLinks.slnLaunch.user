@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "shorterlinks.client\\shorterlinks.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ShorterLinks.Server\\ShorterLinks.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

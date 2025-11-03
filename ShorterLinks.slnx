@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="shorterlinks.client/shorterlinks.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ShorterLinks.Server/ShorterLinks.Server.csproj" />
+</Solution>
