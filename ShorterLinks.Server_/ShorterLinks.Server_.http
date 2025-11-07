@@ -1,0 +1,6 @@
+@ShorterLinks.Server__HostAddress = http://localhost:5186
+
+GET {{ShorterLinks.Server__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

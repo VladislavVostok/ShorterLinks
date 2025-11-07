@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShorterLinks.Server_.props" />
+</Project>

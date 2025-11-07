@@ -1,28 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\ShorterLinks.Server.csproj": {}
+    "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server\\ShorterLinks.Server.csproj": {}
   },
   "projects": {
-    "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\ShorterLinks.Server.csproj": {
+    "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server\\ShorterLinks.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\ShorterLinks.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server\\ShorterLinks.Server.csproj",
         "projectName": "ShorterLinks.Server",
-        "projectPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\ShorterLinks.Server.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\obj\\",
+        "projectPath": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server\\ShorterLinks.Server.csproj",
+        "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -44,38 +40,37 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
-              "version": "[9.*-*, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[8.0.21, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
@@ -105,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
