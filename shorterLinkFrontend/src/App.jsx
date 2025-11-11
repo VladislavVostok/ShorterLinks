@@ -3,16 +3,26 @@ import Body from "./BodyComponent/Body"
 import Registration from "./RegistrationComponent/Registration"
 import Login from "./LoginComponent/Login"
 
+import { useState } from "react"
+
 
 function App() {
+    const [token, setToken] = useState("");
+    const [isRegistered, setRegist] = useState(false);
+    const [isLogined, setLogin] = useState(false);
+
     return (
         <>
-            {/* <Login></Login> */}
-            
-            <Registration></Registration>
+            {(!isLogined && isRegistered) && <Login registerFormVisibility={setRegist} logined={setLogin} tokenVal={setToken}></Login>}
 
-            {/* <Header></Header>
-            <Body></Body> */}
+            {/* {!isRegistered && <Registration logined={setLogin} registerFormVisibility={setRegist} />} */}
+            {!isRegistered && <Registration  registred={setRegist} />}
+            
+
+
+            {isLogined && <Header></Header>}
+            {isLogined && <Body tokenVal = {token}></Body>}
+
         </>)
 }
 

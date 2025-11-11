@@ -6,7 +6,7 @@ import "./registrationStyle.css"
 
 
 
-function Registration() {
+function Registration(props) {
 
     const [username, setUsername] = useState("");
     const [email, setEmail] = useState("");
@@ -31,15 +31,19 @@ function Registration() {
 
     async function registerResponse() {
         try {
-            const response = await axios.post("http://localhost:5186/api/Auth/register", {
+            const response = await axios.post("https://localhost:7132/api/Auth/register", {
                 "username": username,
                 "email": email,
                 "password": password
             });
-            console.log(response.token)
+            if (response.data) {
+                console.log(response.data);
+                // props.logined(true);
+                props.registred(true);
+            }
         }
         catch (error) {
-            console.log(error);
+            alert(error);
         }
 
 
@@ -53,9 +57,9 @@ function Registration() {
 
 
             <form method="post">
-                <input onChange={handleUserNameInput} id="usernameInput" type="text" placeholder="Username" /><br />
-                <input onChange={handleEmailInput} id="emailInput" type="email" placeholder="Email" /><br />
-                <input onChange={handlePasswordInput} id="passwordInput" type="password" placeholder="Password" required /><br />
+                <input onChange={handleUserNameInput} id="usernameInput" type="text" placeholder="Username" value={username} /><br />
+                <input onChange={handleEmailInput} id="emailInput" type="email" placeholder="Email" value={email} /><br />
+                <input onChange={handlePasswordInput} id="passwordInput" type="password" placeholder="Password" required value={password} /><br />
                 <input onClick={handleRegister} id="submitInput" type="submit" value="Зарегистрироваться" />
             </form>
 
