@@ -15,18 +15,21 @@ function App() {
         <>
             {(!isLogined && isRegistered) && <Login registerFormVisibility={setRegist} logined={setLogin} tokenVal={setToken}></Login>}
 
-            {/* {!isRegistered && <Registration logined={setLogin} registerFormVisibility={setRegist} />} */}
+            
             {!isRegistered && <Registration  registred={setRegist} />}
             
-
-
             {isLogined && <Header></Header>}
             {isLogined && <Body tokenVal = {token}></Body>}
-
+            {/* <Header></Header>
+            <Body></Body> */}
         </>)
 }
 
 export default App
+
+
+
+{/* {!isRegistered && <Registration logined={setLogin} registerFormVisibility={setRegist} />} */ }
 
 
 

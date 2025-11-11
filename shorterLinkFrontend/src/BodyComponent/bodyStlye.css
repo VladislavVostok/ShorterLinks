@@ -15,6 +15,7 @@ body {
     height: 65px;
 
 }
+
 .bodyContainer button {
 
     background-color: #ff8e88;
@@ -34,4 +35,46 @@ body {
     padding: 28px 30px;
     border: none;
     border-radius: 15px;
+}
+
+
+.linksContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+
+}
+
+.linkCard {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 15px;
+    width: 800px;
+    height: 150px;
+}
+
+.linkCard button {
+    border: 2px solid #e4e7ef;
+    border-radius: 15px;
+    padding: 13px 20px;
+    margin-left: 15px;
+}
+.linkCard button:hover {
+     border: 2px solid  #8bdf91;
+    background-color: #8bdf91;
+    cursor:  pointer;
+}
+
+.linkCard a {
+    margin-left: 50px;
+}
+
+#qrCode {
+    height: 80px;
+    margin-left: 160px;
 }

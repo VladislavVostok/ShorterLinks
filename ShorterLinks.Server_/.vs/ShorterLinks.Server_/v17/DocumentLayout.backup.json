@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LinksController.cs",
               "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\LinksController.cs",
               "RelativeDocumentMoniker": "Controllers\\LinksController.cs",
@@ -59,26 +59,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T16:51:31.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T17:02:59.763Z",
               "EditorCaption": ""
