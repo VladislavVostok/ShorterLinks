@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShorterLinks.Server_")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b2301cc6b75a66d1fa12ad06c17f641554d75ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aafa55f43f70fc2cf880312510e134834167f27")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShorterLinks.Server_")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShorterLinks.Server_")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

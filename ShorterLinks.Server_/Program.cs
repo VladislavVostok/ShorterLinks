@@ -15,17 +15,19 @@ namespace ShorterLinks.Server
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             builder.Services.AddScoped<IAuthService, AuthService>();
-            builder.Services.AddScoped<ILinkService, LinkService>();
+            builder.Services.AddTransient<ILinkService, LinkService>();
+
 
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("ReactApp", policy =>
                 {
-                    policy.WithOrigins("http://localhost:3000")
+                    policy.WithOrigins("http://localhost:5173")
                     .AllowAnyHeader()
                     .AllowAnyMethod()
                     .AllowCredentials();
