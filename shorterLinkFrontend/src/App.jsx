@@ -3,13 +3,25 @@ import Body from "./BodyComponent/Body"
 import Registration from "./RegistrationComponent/Registration.jsx"
 import Login from "./LoginComponent/Login"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 
 
 function App() {
     const [token, setToken] = useState("");
     const [isRegistered, setRegist] = useState(false);
     const [isLogined, setLogin] = useState(false);
+    const [isUserProfile, setUserProfile] = useState(false);
+    let showComponent;
+
+    useEffect(() => {
+        const userData = localStorage.getItem("userData");
+      
+        if (userData) {
+              console.log(JSON.parse(userData));
+            setRegist(true);
+            // setLogin(true);
+        }
+    }, []);
 
     return (
         <>
@@ -18,14 +30,14 @@ function App() {
 
             {!isRegistered && <Registration registred={setRegist} />}
 
-            {isLogined && <Header></Header>}
-            {isLogined && <Body tokenVal={token}></Body>}
+            {isLogined && <Header logined={isLogined} isUserProfile={setUserProfile} registrState={setRegist} loginState={setLogin}></Header>}
+            {isLogined && <Body tokenVal={token} userProfile={isUserProfile}></Body>}
 
             {/* <Login registerFormVisibility={setRegist} logined={setLogin} tokenVal={setToken}></Login> */}
 
 
-            {/* <Header></Header>    
-                    <Body></Body> */}
+            {/* <Header></Header>
+            <Body logined={isLogined}></Body> */}
         </>)
 }
 

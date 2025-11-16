@@ -63,6 +63,10 @@ body {
     cursor: pointer;
 }
 
+.linkInputContainer button:hover {
+    background: #1041bc;
+}
+
 .linksCardContainer {
     display: flex;
     justify-content: center;
@@ -70,6 +74,13 @@ body {
     flex-direction: column;
 }
 
+.linkCardContainer{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
 .linksStats {
     display: flex;
     justify-content: space-around;

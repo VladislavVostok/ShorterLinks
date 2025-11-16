@@ -41,6 +41,7 @@ function Registration(props) {
             if (response.data) {
                 console.log(response.data);
                 // props.logined(true);
+                localStorage.setItem("userData", `{"token":${JSON.stringify(response.data.token)},"email":"${email}","password":"${password}","username": "${username}"}`);
                 props.registred(true);
             }
         }
