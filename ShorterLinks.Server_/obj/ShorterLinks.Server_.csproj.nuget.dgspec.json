@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {}
+    "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {
+    "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
+        "projectUniqueName": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
         "projectName": "ShorterLinks.Server_",
-        "projectPath": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
-        "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server_\\obj\\",
+        "projectPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -104,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
